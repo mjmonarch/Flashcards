@@ -289,12 +289,9 @@ files:
 - name: flashcards/capitals.json
   visible: true
   learner_created: true
-- name: animal_sounds.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/127/stages/677/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 21 Apr 2022 15:05:50 UTC
-record: -1
+  time: Thu, 21 Apr 2022 15:06:41 UTC
+record: 5

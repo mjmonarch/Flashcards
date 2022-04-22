@@ -1,0 +1,25 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# initialize your logger here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15966#comment
+status: Failed
+feedback:
+  message: |+
+    Failed. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+
+
+    Correct output:
+
+    WARNING: Your application stopped working. Trying to restart!
+
+    Your code output:
+
+  time: Fri, 22 Apr 2022 08:51:13 UTC
+record: -1
