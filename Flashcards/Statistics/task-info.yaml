@@ -411,12 +411,9 @@ files:
 - name: flashcards/temp_log_file.log
   visible: true
   learner_created: true
-- name: log.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/127/stages/678/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Fri, 22 Apr 2022 14:40:09 UTC
-record: -1
+record: 6
